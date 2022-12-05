@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GilCaplan
 - 👀 I’m interested in learning coding and relevant topics
-- 🌱 I’m currently learning java and doing some small python projects
+- 🌱 I'm currently a student studying Data Science
 - 💞️ I’m looking to collaborate on small projects and learning new areas in the programming world
 - 📫 feel free to email me at rockycaplan@gmail.com
 
