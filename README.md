@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GilCaplan
 - 👀 I’m interested in learning coding and relevant topics
-- 🌱 I'm currently a student studying Data Science & Engineering at the Technion (Israel)
+- 🌱 I'm currently studying a B.sc in Data Science & Engineering at the Technion (Israel)
 - 💞️ I’m looking to collaborate on small projects and learning new areas in the programming world
 - 📫 feel free to email me at rockycaplan@gmail.com
 
