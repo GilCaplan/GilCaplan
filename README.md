@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GilCaplan
 - 👀 I’m interested in learning coding and relevant topics
 - 🌱 I'm currently studying a B.sc in Data Science & Engineering at the Technion (Israel)
-- 💞️ I’m looking to collaborate on research/projects and learning new areas in the programming world and AI fields from NLP, ML to vision and more.
+- 💞️ I’m looking to collaborate on research/projects and learning new areas in the programming world included but not limited to AI fields such as NLP, ML to vision and more.
 - 📫 feel free to email me at rockycaplan@gmail.com
 
 <!---
